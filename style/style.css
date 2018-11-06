@@ -1,0 +1,19 @@
+img{
+	width: 100%;
+	height: 100%;
+}
+h1{
+	font-size: 50px;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	background-color: #9bd0ff;
+}
+h2{
+	width: 100%;
+	text-align: center;
+}
+.block{
+	padding-bottom: 10px;
+}

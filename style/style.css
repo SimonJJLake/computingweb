@@ -21,3 +21,8 @@ h3{
 .block{
 	padding-bottom: 10px;
 }
+.col_block{
+	width: 95%;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
